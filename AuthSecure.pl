@@ -9,7 +9,7 @@ use POSIX qw(strftime);
 # ======================================================
 # 🔹 Global Vars (Static style)
 # ======================================================
-my $BASE_URL = "https://authsecure.shop/post";
+my $BASE_URL = "https://horrorgamingkeyauth.shop/post";
 our $AppInitialized = "no";
 our $SessionID = "none";
 our ($Name, $OwnerID, $Secret, $Version);
@@ -186,3 +186,4 @@ sub _format_time {
 }
 
 1;
+
